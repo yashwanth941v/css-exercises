@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.element {background-color: rgb(255, 155, 155);
+        font-size: 34px;
+        font-family: Inter, sans-serif; font-weight: 500;}
+#special {font-size: 60px;
+        color: blue;
+    font-weight: 600;}
+.element.two {font-size: 45px;}
+#huh {font-size: 30px;
+    font-weight: 800;
+    background-color: rgb(207, 255, 207);
+}

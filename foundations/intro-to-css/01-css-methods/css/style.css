@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+div {background-color: red;
+    font-size: 30px;
+    text-align: center;
+    font-weight:650;
+    color: white;}  
+* {font-family: inter, sans-serif;;}

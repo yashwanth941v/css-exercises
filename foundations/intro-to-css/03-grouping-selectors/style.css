@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.butt-one, .butt-two {font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+border-radius: 99px;
+padding: 0 10px;}
+.butt-one{background-color: black; color: white;}
+.butt-two{background-color: yellow; color: black;}
